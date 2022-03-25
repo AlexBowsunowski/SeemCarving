@@ -1,1 +1,1 @@
-# SeemCarving
+# SeamCarving
